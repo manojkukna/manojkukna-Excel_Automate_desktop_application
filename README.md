@@ -19,6 +19,11 @@
 [//]: # (https://www.youtube.com/watch?v=xdj0mGmuNjc)
 
 
+Python Tkinter Full Course for Beginners in 12 Hours | Learn Tkinter with Python Projects 2024
+
+https://www.youtube.com/watch?v=4S6U-CW-IqI&t=21619s
+
+
 
 
 
